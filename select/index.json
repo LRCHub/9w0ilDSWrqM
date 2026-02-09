@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "過ち",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-09T12:15:36.372396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "過ち",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/01_過ち_キタニタツヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "過ち",
+      "artist": "Carmen Maki",
+      "has_synced": false,
+      "path": "select/02_過ち_Carmen_Maki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "過ち",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/03_過ち_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "過ち - A Sin",
+      "artist": "Tatsuya Kitani",
+      "has_synced": false,
+      "path": "select/04_過ち_-_A_Sin_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "過ち(山本 彩 & 稲垣潤一)",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/05_過ち(山本_彩_&_稲垣潤一)_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "過ち",
+      "artist": "山本 彩 ＆ 稲垣潤一",
+      "has_synced": true,
+      "path": "select/06_過ち_山本_彩_&_稲垣潤一.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Track2_過ち",
+      "artist": "荘ノヴァ",
+      "has_synced": true,
+      "path": "select/07_Track2_過ち_荘ノヴァ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "過ち",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_過ち_キタニタツヤ.txt"
+    }
+  ]
+}
